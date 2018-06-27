@@ -18,6 +18,7 @@
 - [https://api.bing.olei.me](https://api.bing.olei.me)
 - [https://api.bing.olei.me/bing](https://api.bing.olei.me/bing)
 - [https://api.bing.olei.me/bing/2018-02-27](https://api.bing.olei.me/bing/2018-02-27)
+- [http://api.bing.olei.me/bing/today](http://api.bing.olei.me/bing/today)
 
 ### 详细教程查看：
 - [https://olei.me/537/](https://olei.me/537/)
