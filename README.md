@@ -14,5 +14,10 @@
 - "/bing/<date>"，其中后面接比如这个形式的日期`2018-02-27`
 - "/bing/today"，当天的结果（每天10点更新）
 
+### 举例
+- [https://api.bing.olei.me](https://api.bing.olei.me)
+- [https://api.bing.olei.me/bing](https://api.bing.olei.me/bing)
+- [https://api.bing.olei.me/bing/2018-02-27](https://api.bing.olei.me/bing/2018-02-27)
+
 ### 详细教程查看：
 - [https://olei.me/537/](https://olei.me/537/)
